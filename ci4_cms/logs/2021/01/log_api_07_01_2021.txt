@@ -1,0 +1,60 @@
+210107011343|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:13:43","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107011604|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:16:04","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107011652|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":0,"updated_on":"2021-01-07 01:16:52","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107012425|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:24:25","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107012448|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|DISABLED|[{"status":0,"updated_on":"2021-01-07 01:24:48","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107013123|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:31:23","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107013138|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|DISABLED|[{"status":0,"updated_on":"2021-01-07 01:31:38","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107013141|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:31:41","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107013144|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|DISABLED|[{"status":0,"updated_on":"2021-01-07 01:31:44","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107013146|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:31:46","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107013149|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|DISABLED|[{"status":0,"updated_on":"2021-01-07 01:31:49","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107013154|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:31:54","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107013158|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|DISABLED|[{"status":0,"updated_on":"2021-01-07 01:31:58","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107013202|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:32:02","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107013900|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|DISABLED|[{"status":0,"updated_on":"2021-01-07 01:39:00","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107014233|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|DISABLED|[{"status":0,"updated_on":"2021-01-07 01:42:33","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107014235|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:42:35","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107014237|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|DISABLED|[{"status":0,"updated_on":"2021-01-07 01:42:37","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107014240|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:42:40","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107014242|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|DISABLED|[{"status":0,"updated_on":"2021-01-07 01:42:42","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107014245|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:42:45","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107014248|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|DISABLED|[{"status":0,"updated_on":"2021-01-07 01:42:48","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107014252|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 01:42:52","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107015743|admin|App\Modules\Configuration\MenuAction\Views\actionEdit|EDIT|[{"action_name":"download_pdf","updated_on":"2021-01-07 01:57:42","updated_by":"admin"}]|{"code":0,"message":"\t<div class=\"errors\" role=\"alert\">\n\t\t<ul>\n\t\t\t\t\t<li> Id tidak boleh kosong <\/li>\n\t\t\t\t<\/ul>\n\t<\/div>\n"}|::1
+
+210107015749|admin|App\Modules\Configuration\MenuAction\Views\actionEdit|EDIT|[{"action_name":"download_pdf","updated_on":"2021-01-07 01:57:49","updated_by":"admin"}]|{"code":0,"message":"\t<div class=\"errors\" role=\"alert\">\n\t\t<ul>\n\t\t\t\t\t<li> Id tidak boleh kosong <\/li>\n\t\t\t\t<\/ul>\n\t<\/div>\n"}|::1
+
+210107015756|admin|App\Modules\Configuration\MenuAction\Views\actionEdit|EDIT|[{"action_name":"download_pdf","updated_on":"2021-01-07 01:57:56","updated_by":"admin"}]|{"code":0,"message":"\t<div class=\"errors\" role=\"alert\">\n\t\t<ul>\n\t\t\t\t\t<li> Id tidak boleh kosong <\/li>\n\t\t\t\t<\/ul>\n\t<\/div>\n"}|::1
+
+210107020043|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|DISABLED|[{"status":0,"updated_on":"2021-01-07 02:00:43","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107020046|admin|App\Modules\Configuration\MenuAction\Views\actionChangeStatus|ENABLED|[{"status":1,"updated_on":"2021-01-07 02:00:46","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+
+210107020137|admin|App\Modules\Configuration\MenuAction\Views\actionEdit|EDIT|[{"action_name":"download_pdf","updated_on":"2021-01-07 02:01:37","updated_by":"admin"}]|{"code":0,"message":"Nama sudah ada"}|::1
+
+210107020241|admin|App\Modules\Configuration\MenuAction\Views\actionEdit|EDIT|[{"action_name":"download_pdf","updated_on":"2021-01-07 02:02:41","updated_by":"admin"}]|{"code":1,"message":"Berhasil Update Data"}|::1
+

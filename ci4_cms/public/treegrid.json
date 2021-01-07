@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "pid": 0,
+      "status": 1,
+      "name": "sayur",
+      "permissionValue": "open:system:get"
+    },
+    {
+      "id": 2,
+      "pid": 0,
+      "status": 1,
+      "name": "daging",
+      "permissionValue": "open:dict:get"
+    },
+    {
+      "id": 20,
+      "pid": 1,
+      "status": 1,
+      "name": "kangkung",
+      "permissionValue": "open:system:add"
+    },
+    {
+      "id": 21,
+      "pid": 1,
+      "status": 1,
+      "name": "timun",
+      "permissionValue": "open:system:edit"
+    },
+    {
+      "id": 22,
+      "pid": 1,
+      "status": 1,
+      "name": "tomat",
+      "permissionValue": "open:system:delete"
+    },
+    {
+      "id": 33,
+      "pid": 2,
+      "status": 1,
+      "name": "ayam",
+      "permissionValue": "open:env:get"
+    },
+    {
+      "id": 333,
+      "pid": 33,
+      "status": 1,
+      "name": "kampung",
+      "permissionValue": "open:env:add"
+    },
+    {
+      "id": 3333,
+      "pid": 33,
+      "status": 1,
+      "name": "kate",
+      "permissionValue": "open:env:edit"
+    },
+    {
+      "id": 233332,
+      "pid": 33,
+      "status": 0,
+      "name": "hutan",
+      "permissionValue": "open:env:delete"
+    }
+]

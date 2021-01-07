@@ -1,0 +1,37 @@
+
+/*header menu*/
+.page-header.navbar.navbar-fixed-top, .page-header.navbar.navbar-static-top 
+{
+    z-index: 1000;
+}
+
+
+/*// none color underline when validate jquery*/
+.form-group.form-md-line-input 
+.form-control.edited:not([readonly])~.form-control-focus:after, 
+.form-group.form-md-line-input .form-control.edited:not([readonly])~label:after,
+.form-group.form-md-line-input .form-control:focus:not([readonly])~.form-control-focus:after,
+.form-group.form-md-line-input .form-control:focus:not([readonly])~label:after 
+{
+     background: none; 
+}
+
+/*// none color underline when validate jquery*/
+.form-group.form-md-line-input.has-info 
+.form-control.edited:not([readonly])~.form-control-focus:after, 
+.form-group.form-md-line-input.has-info .form-control.edited:not([readonly])~label:after, 
+.form-group.form-md-line-input.has-info .form-control.focus:not([readonly])~.form-control-focus:after,
+.form-group.form-md-line-input.has-info .form-control.focus:not([readonly])~label:after, 
+.form-group.form-md-line-input.has-info .form-control.form-control-static~.form-control-focus:after, 
+.form-group.form-md-line-input.has-info .form-control.form-control-static~label:after,
+.form-group.form-md-line-input.has-info .form-control:focus:not([readonly])~.form-control-focus:after, 
+.form-group.form-md-line-input.has-info .form-control:focus:not([readonly])~label:after 
+{
+    background: none;
+}
+
+.help-inline{
+	color: red;
+}
+
+
